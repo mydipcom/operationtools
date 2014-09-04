@@ -1,0 +1,25 @@
+
+    2014-07-06 18:13:17
+        *[CPU:100%]    User:11%    System:88%    Idle:0%  
+        *[Memory:43.1%]    Used:3475M   Idle:4588M    
+                
+
+    2014-07-06 18:13:22
+        *[CPU:6%]    User:3%    System:2%    Idle:94%  
+        *[Memory:43.2%]    Used:3479M   Idle:4583M    
+                
+
+    2014-07-06 18:13:27
+        *[CPU:7%]    User:2%    System:4%    Idle:92%  
+        *[Memory:43.2%]    Used:3482M   Idle:4581M    
+                Send Email [Succeed]!
+
+    2014-07-14 10:24:45
+        *[CPU:9%]    User:9%    System:0%    Idle:90%  
+        *[Memory:60.3%]    Used:4863M   Idle:3199M    
+                
+
+    2014-07-14 10:24:50
+        *[CPU:14%]    User:2%    System:11%    Idle:85%  
+        *[Memory:61.1%]    Used:4927M   Idle:3135M    
+                
